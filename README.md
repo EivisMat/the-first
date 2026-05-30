@@ -15,7 +15,7 @@ A Discord bot built in Python using [Pycord](https://docs.pycord.dev/).
 
 1. Clone the repo
    ```
-   git clone https://github.com/your-username/the-first.git
+   git clone https://github.com/EivisMat/the-first.git
    cd the-first
    ```
 
