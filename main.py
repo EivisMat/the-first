@@ -1,12 +1,13 @@
 import os
 
 import discord
+from discord.ext import commands
 from dotenv import load_dotenv
 
 load_dotenv()
 
 intents = discord.Intents.default()
-bot = discord.Bot(intents=intents)
+bot = commands.Bot(command_prefix="!", intents=intents) # feel free to change the prefix
 
 
 @bot.event
