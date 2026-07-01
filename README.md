@@ -41,6 +41,6 @@ A Discord bot built in Python using [Pycord](https://docs.pycord.dev/).
 1. Create a branch for your change (`feature/your-feature-name`)
 2. Make your changes and commit them
 3. Open a pull request to `main`
-4. Wait for a review — all changes require approval before merging
+4. Wait for a review, all changes require approval before merging
 
 Direct pushes to `main` are not allowed.
